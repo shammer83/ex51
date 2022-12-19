@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>Gothonds From Planet PErcal #25</title>
+    </head>
+    <body>
+
+        {% block content %}
+
+        {% endblock %}
+    </body>
+</html>
